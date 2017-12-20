@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Music Bands",
+    "id": 0,
+    "cards": [
+      { "id": 0, "prompt": "House of cards", "answer": "Radiohead" },
+      { "id": 1, "prompt": "Californication", "answer": "RHCP" },
+      { "id": 2, "prompt": "Comfortably Numb", "answer": "Pink Floyd" },
+      { "id": 3, "prompt": "Sweet child o mine", "answer": "GNR" }
+
+    ]
+  },
+  {
+    "title": "Computer Science Basics",
+    "id": 1,
+    "cards": [
+      { "id": 0, "prompt": "A single line of code", "answer": "statement" },
+      { "id": 1, "prompt": "A word reserved to store data", "answer": "variable" },
+      { "id": 2, "prompt": "A storage component to serve requests faster", "answer": "cache" },
+      { "id": 3, "prompt": "Where data is stored", "answer": "memory" },
+      { "id": 4, "prompt": "8 bits =", "answer": "1 byte" },
+      { "id": 5, "prompt": "A way to repeat code a certain number of times", "answer": "loop" },
+      { "id": 6, "prompt": "UI stands for", "answer": "User Interface" }
+    ]
+  }
+]
